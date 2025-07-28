@@ -38,6 +38,7 @@
             <li key={index}>{veg}</li>
         ))}
        </ul>
+       
      </div>
    )
  }
